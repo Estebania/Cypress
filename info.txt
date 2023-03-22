@@ -1,0 +1,20 @@
+Notas curso de cypress
+
+1-Comando para iniciar el intalador de paquetes node
+
+npm -inint
+
+2-Comamdo para instalar cypress
+
+npm install cypress --save-dev
+
+3-Validar que se instalo cypress
+
+.\node_modules\.bin\cypress open
+
+npx cypress open
+4- En caso de error con el comado anterir
+NPX instalacion https://www.npmjs.com/package/NPX
+instalacion
+npm install -g npx 
+npm cypress install --force
